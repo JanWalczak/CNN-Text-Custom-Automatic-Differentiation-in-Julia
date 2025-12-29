@@ -32,3 +32,14 @@ Install:
 ```julia
 import Pkg
 Pkg.add(["JLD2", "BenchmarkTools"])
+```
+
+# Collaborators
+
+Collaborators for this repository include:
+* Patryk Jankowicz ([GitHub](https://github.com/PatrykSJ)), Warsaw University of Technology
+* Jan Walczak ([GitHub](https://github.com/JanWalczak)), Warsaw University of Technology
+
+
+
+
